@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\ProveIt_CSharpBasics\\BirthdayChallengeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA680FE4-D7B0-4040-A1CE-BDDF6F7D17A6}|BirthdayChallenge\\BirthdayChallenge.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\iamtimcorey\\proveit_csharpbasics\\birthdaychallengeapp\\birthdaychallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA680FE4-D7B0-4040-A1CE-BDDF6F7D17A6}|BirthdayChallenge\\BirthdayChallenge.csproj|solutionrelative:birthdaychallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\ProveIt_CSharpBasics\\BirthdayChallengeApp\\BirthdayChallenge\\Program.cs",
+              "RelativeDocumentMoniker": "BirthdayChallenge\\Program.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\IAMTIMCOREY\\ProveIt_CSharpBasics\\BirthdayChallengeApp\\BirthdayChallenge\\Program.cs",
+              "RelativeToolTip": "BirthdayChallenge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T20:55:07.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
