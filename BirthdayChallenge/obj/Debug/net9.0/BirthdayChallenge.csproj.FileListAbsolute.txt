@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\bin\Debug\net9.0\BirthdayChallenge.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\bin\Debug\net9.0\BirthdayChallenge.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\bin\Debug\net9.0\BirthdayChallenge.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\bin\Debug\net9.0\BirthdayChallenge.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\bin\Debug\net9.0\BirthdayChallenge.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\refint\BirthdayChallenge.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\BirthdayChallenge.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\IAMTIMCOREY\ProveIt_CSharpBasics\BirthdayChallengeApp\BirthdayChallenge\obj\Debug\net9.0\ref\BirthdayChallenge.dll
