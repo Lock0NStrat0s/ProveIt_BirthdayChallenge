@@ -86,6 +86,9 @@ internal class Program
 
     private static int MonthsUntilNextBirthday(DateTime bday)
     {
+        DateTime now = new DateTime(2019, 3, 11);
+        DateTime nextBday = GetNextBirthday(bday);
+
 
     }
 
